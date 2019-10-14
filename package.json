@@ -65,7 +65,8 @@
                     ".g00",
                     ".t",
                     ".dmp",
-                    ".ppg"
+                    ".ppg",
+                    ".nd"
                 ],
                 "configuration": "./language-configuration.json"
             }
